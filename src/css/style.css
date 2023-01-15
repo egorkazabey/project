@@ -205,5 +205,6 @@ section {
     display: flex;
     justify-content: center;
     margin-top: -400px;
-    margin-right: -182px;
+    margin-right: -183px;
+    margin-bottom: 30px;
 }
